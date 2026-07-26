@@ -20,6 +20,15 @@
     "BACKGROUND_TERTIARY": [
       "rgba(0, 0, 0, 0)"
     ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "rgba(0, 0, 0, 0)"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "rgba(0, 0, 0, 0)"
+    ],
+    "CHANNEL_LIST_BACKGROUND": [
+      "rgba(0, 0, 0, 0)"
+    ],
     "BACKGROUND_ACCENT": [
       "rgba(0, 0, 0, 0.3)"
     ],
@@ -254,4 +263,4 @@
   "spec": 2,
   "createdAt": "2026-05-06",
   "source": "local"
-  }
+}
