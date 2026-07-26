@@ -9,34 +9,34 @@
   ],
   "semanticColors": {
     "BACKGROUND_PRIMARY": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0a0a0a"
+      "rgba(0, 0, 0, 0)"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "BACKGROUND_ACCENT": [
-      "#121212"
+      "rgba(0, 0, 0, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#121212"
+      "rgba(0, 0, 0, 0.3)"
     ],
     "DIVIDER_STRONG": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "DIVIDER_SUBTLE": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "BORDER_SUBTLE": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "SPINE_DEFAULT": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#121212"
@@ -45,7 +45,7 @@
       "#121212"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#000000"
+      "rgba(0, 0, 0, 0.5)"
     ],
     "STATUS_DANGER": [
       "#000000"
@@ -129,7 +129,7 @@
       "#FFFFFF"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FFFFFF"
@@ -138,16 +138,16 @@
       "#000000"
     ],
     "TYPING_INDICATOR_BG": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "WHITE": [
       "#FFFFFF"
@@ -156,16 +156,16 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#FFFFFF"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#000000"
+      "rgba(0, 0, 0, 0.3)"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+      "rgba(0, 0, 0, 0.3)"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
@@ -177,7 +177,7 @@
       "#121212"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#000000"
+      "rgba(0, 0, 0, 0)"
     ],
     "MENTION_BADGE": [
       "#ff6161"
@@ -254,4 +254,4 @@
   "spec": 2,
   "createdAt": "2026-05-06",
   "source": "local"
-}
+  }
